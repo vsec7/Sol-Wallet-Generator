@@ -3,7 +3,7 @@ Solana Wallet Generator
 
 ## Installation
 ```
-git clone https://github.com/vsec7/Sol-Wallet-Generator
+git clone https://github.com/vsec7/Sol-Wallet-Generator.git
 cd Sol-Wallet-Generator
 npm install
 npm start
